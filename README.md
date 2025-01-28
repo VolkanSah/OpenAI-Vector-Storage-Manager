@@ -135,6 +135,9 @@ while True:
 
 ## License
 
-CC4
+GPL3
+
+## Copyright
+**[Volkan Kücükbudak](https://github.com/volkansah]
 
 
