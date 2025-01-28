@@ -138,6 +138,6 @@ while True:
 GPL3
 
 ## Copyright
-**[Volkan Kücükbudak](https://github.com/volkansah]**
+**[Volkan Kücükbudak](https://github.com/volkansah)**
 
 
