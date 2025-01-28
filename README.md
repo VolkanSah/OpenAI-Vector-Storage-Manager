@@ -3,7 +3,7 @@
 
 ![Vectore Storage](vectoregui.jpg)
 
-Python interfaces for interacting with OpenAI's Vector Store API - both CLI and GUI versions.
+Python interfaces for interacting with OpenAI's Vector Storage API - both CLI and GUI versions.
 
 ## Features
 
