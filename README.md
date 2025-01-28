@@ -1,4 +1,5 @@
 # OpenAI Vector Store Manager
+#### Interface in "German" cause i need it in german! If you want you can contribute to this repo
 
 Python interfaces for interacting with OpenAI's Vector Store API - both CLI and GUI versions.
 
