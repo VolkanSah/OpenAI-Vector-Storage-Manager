@@ -2,9 +2,12 @@
 # Copyright Volkan Kücükbudak
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox, scrolledtext
-from vector_store_client import VectorStoreClient  # Dein vorheriges Interface
+from gui_less import VectorStoreClient
 import os
 import threading
+from dotenv import load_dotenv
+
+load_dotenv()  # Füge diese Zeile VOR der Client-Initialisierung ein
 
 class VectorStoreGUI:
     def __init__(self, root):
