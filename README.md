@@ -132,6 +132,6 @@ while True:
 
 ## License
 
-MIT License - Free for modification and distribution
+CC4
 
 
