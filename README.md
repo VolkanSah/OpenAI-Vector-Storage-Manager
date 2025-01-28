@@ -1,4 +1,4 @@
-# OpenAI Vector Store Manager
+# OpenAI Vector Storage Manager
 #### Interface in "German" cause i need it in german! If you want you can contribute to this repo
 
 ![Vectore Storage](vectoregui.jpg)
