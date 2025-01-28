@@ -1,3 +1,5 @@
+# OpenAi Vectore Storage CLI version
+# Copyright Volkan Kücükbudak
 import requests
 import time
 from typing import List, Dict, Optional
